@@ -2,5 +2,6 @@
 .csv filter=lfs diff=lfs merge=lfs -text
 .NYPD_Arrest_Data__Historic_[[:space:]](1).csv filter=lfs diff=lfs merge=lfs -text
 new_york_tree_census_2015.csv filter=lfs diff=lfs merge=lfs -text
+new_yok_tree_census_2015.csv filter=lfs diff=lfs merge=lfs -text
 src/*.csv filter=lfs diff=lfs merge=lfs -text
 src/*.json filter=lfs diff=lfs merge=lfs -text
