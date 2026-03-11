@@ -1,0 +1,10 @@
+pandas
+matplotlib
+requests
+numpy
+scipy
+geopy
+thefuzz
+python-Levenshtein
+geopandas
+shapely
