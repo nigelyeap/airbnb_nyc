@@ -3,6 +3,7 @@
 **Estimated time:** ~5 minutes (650–700 words at normal pace)
 
 ---
+Person 1
 
 ## Opening — Hook & Hypothesis (0:00–0:40)
 
@@ -32,6 +33,7 @@ Second, **stepwise R-squared drop** — we fit a full linear model on all predic
 Third, we validated that ranking with three default machine learning models: **Decision Tree, Random Forest, and XGBoost** — not for prediction, but as a cross-model robustness check on variable importance.
 
 ---
+Person 2
 
 ## Key Findings (2:10–3:30)
 
@@ -48,6 +50,7 @@ Here's what we found, ranked by overall consensus across all methods:
 **Last: Tree density.** Directionally positive — greener areas do price slightly higher — but it's consistently the weakest predictor. Greenery is a nice-to-have signal, not a primary driver.
 
 ---
+Person 3
 
 ## Limitations (3:30–4:20)
 
